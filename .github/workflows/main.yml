@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.talin-praketa.xyz
         username: awsftpuser
-        password: ${{ secrets.ftp_password }}
+        password: tal123
